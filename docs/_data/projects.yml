@@ -1,0 +1,7 @@
+- id: task-manager
+  title: 任务管理应用
+  description: 轻量级任务管理应用，支持团队协作、截止日期提醒和进度跟踪。
+  category: 应用类
+  image: task-manager.png
+  github_url: https://github.com/3ziye/task-manager
+  demo_url: https://3ziye.github.io/task-manager

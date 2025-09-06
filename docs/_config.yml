@@ -1,0 +1,33 @@
+title: 3ziye 开源组织
+description: 专注于开源技术研发与分享的社区组织
+baseurl: ""
+url: "https://3ziye.github.io"
+
+# 主题设置
+theme: minima
+
+# 插件配置
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 导航菜单配置
+nav_links:
+  - title: 首页
+    url: /
+  - title: 关于我们
+    url: /about
+  - title: 项目
+    url: /projects
+
+# 项目分类
+project_categories:
+  - 工具类
+  - 应用类
+  - 文档类
+  - 教育类
+
+# 网站统计
+google_analytics: UA-XXXXXXXX-X
+    
